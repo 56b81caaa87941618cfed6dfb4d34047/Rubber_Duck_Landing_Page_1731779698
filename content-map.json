@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "QuackCraft",
+        "HERO_HEADING_TEXT": "Make a Splash with QuackCraft Rubber Ducks",
+        "HERO_SUBHEADING_TEXT": "Discover the perfect companion for bath time adventures and collectible fun",
+        "FOOTER_TEXT": "\u00a9 2023 QuackCraft. All rights reserved. Float with us!"
+    }
+}
